@@ -1,6 +1,6 @@
 # 03 JavaScript: Password Generator
-This application generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
-Here's the Link: https://lrogers1843.github.io/hw3/
+This application generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.  
+Here's the Link: https://lrogers1843.github.io/hw3/  
 
 ## User Story
 
