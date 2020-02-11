@@ -20,7 +20,8 @@ THEN I select which criteria to include in the password
 WHEN prompted for the length of the password
 THEN I choose a length of at least 8 characters and no more than 128 characters
 ### Length Selection
-![](2020-02-10-19-39-56.png)
+![](2020-02-10-19-39-56.png)  
+
 WHEN prompted for character types to include in the password
 THEN I choose lowercase, uppercase, numeric, and/or special characters
 ### Character Type Prompts
@@ -28,7 +29,8 @@ THEN I choose lowercase, uppercase, numeric, and/or special characters
 ![](2020-02-10-19-40-43.png)
 ![](2020-02-10-19-41-10.png)
 ![](2020-02-10-19-41-30.png)
-![](2020-02-10-19-41-50.png)
+![](2020-02-10-19-41-50.png)  
+
 WHEN I answer each prompt
 THEN my input is validated and at least one character type should be selected
 WHEN all prompts are answered
