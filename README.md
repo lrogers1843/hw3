@@ -3,15 +3,15 @@ This application generates a random password based on user-selected criteria. Th
 
 ## User Story
 
-```
+
 This is for employees with access to sensitive data
 to randomly generate a password that meets certain criteria
 It creates a strong password that provides greater security
-```
+
 
 ## Project walkthough
 
-```
+
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
 THEN I am presented with a series of prompts for password criteria
@@ -36,6 +36,6 @@ WHEN the password is generated
 THEN the password is written to the page
 ![](2020-02-10-19-42-24.png)
 ![](2020-02-10-19-42-43.png)
-```
+
 
 
