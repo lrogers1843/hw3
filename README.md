@@ -19,7 +19,7 @@ WHEN prompted for password criteria
 THEN I select which criteria to include in the password
 WHEN prompted for the length of the password
 THEN I choose a length of at least 8 characters and no more than 128 characters
-![](2020-02-10-19-39-56.png)
+![img](2020-02-10-19-39-56.png)
 WHEN prompted for character types to include in the password
 THEN I choose lowercase, uppercase, numeric, and/or special characters
 ![](2020-02-10-19-40-28.png)
